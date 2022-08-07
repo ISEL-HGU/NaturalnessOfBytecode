@@ -14,4 +14,4 @@ We expect that these findings will be helpful for future work to study automated
 
 * Experiment Replication Package for the observation of naturalness of bytecode instructions.
 
-* Experiment Replication Package for the observation of the correlation between bytecode instructions and source code in terms of naturalness.
+* Partial data for the observation of the correlation between bytecode instructions and source code in terms of naturalness.
